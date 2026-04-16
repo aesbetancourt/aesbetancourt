@@ -1,6 +1,4 @@
-# Alejandro Sanchez
-
-**Fullstack AI Engineer**
+## Fullstack AI Engineer
 
 I specialize in architecting scalable distributed systems with TypeScript, Python, and AI-assisted engineering. I build full-stack products — from React frontends to Node.js/Python backends — deployed across AWS and GCP.
 
