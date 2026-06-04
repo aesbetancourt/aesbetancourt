@@ -22,6 +22,6 @@ Currently building SaaS products and AI-powered tooling at **Entropy Systems**.
 
 ### Links
 
-[![Website](https://img.shields.io/badge/aesbetancourt.github.io-18181b?style=flat&logo=google-chrome&logoColor=white)](https://aesbetancourt.github.io)
+[![Website](https://img.shields.io/badge/aesbetancourt.dev-18181b?style=flat&logo=google-chrome&logoColor=white)](https://aesbetancourt.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aesbetancourt)
 [![Email](https://img.shields.io/badge/Email-18181b?style=flat&logo=maildotru&logoColor=white)](mailto:aesbetancourt@outlook.com)
