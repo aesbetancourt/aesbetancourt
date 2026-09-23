@@ -1,8 +1,10 @@
-## Fullstack AI Engineer
+## Senior Fullstack AI Engineer
+
+Founding Engineer at **Entropy Systems** · Barcelona, Spain · Remote (EU)
 
 I specialize in architecting scalable distributed systems with TypeScript, Python, and AI-assisted engineering. I build full-stack products — from React frontends to Node.js/Python backends — deployed across AWS and GCP.
 
-Currently building SaaS products and AI-powered tooling at **Entropy Systems**.
+As a founding engineer at **Entropy Systems**, I've shaped the architecture of our SaaS products for ISO standards auditing from day one. They're now used by ~40 client companies.
 
 ### What I do
 
@@ -24,4 +26,3 @@ Currently building SaaS products and AI-powered tooling at **Entropy Systems**.
 
 [![Website](https://img.shields.io/badge/aesbetancourt.dev-18181b?style=flat&logo=google-chrome&logoColor=white)](https://aesbetancourt.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aesbetancourt)
-[![Email](https://img.shields.io/badge/Email-18181b?style=flat&logo=maildotru&logoColor=white)](mailto:aesbetancourt@outlook.com)
