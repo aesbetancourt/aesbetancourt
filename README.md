@@ -1,6 +1,6 @@
 ## Senior Fullstack AI Engineer
 
-Founding Engineer at **Entropy Systems** · Barcelona, Spain · Remote (EU)
+Founding Engineer at **Entropy Systems** · Barcelona, Spain · EU
 
 I specialize in architecting scalable distributed systems with TypeScript, Python, and AI-assisted engineering. I build full-stack products — from React frontends to Node.js/Python backends — deployed across AWS and GCP.
 
